@@ -1,0 +1,8 @@
+digraph G {
+rankdir=LR;
+ node [shape=record];
+struct3 [shape=record,label=" 
+{0|4|8|12|16|1|5|9|13|17|2|6|10|X|18|3|7|11|15|19
+}" 
+ ];
+}
